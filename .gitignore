@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Streamlit (secrets locaux)
+.streamlit/secrets.toml
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
